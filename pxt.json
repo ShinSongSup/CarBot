@@ -1,7 +1,7 @@
 {
     "name": "microbot",
     "version": "0.0.1",
-    "description": "Extension for LewanSoul Microbot",
+    "description": "한국어 번역 테스트 버젼",
     "license": "MIT",
     "dependencies": {
         "core": "*"
