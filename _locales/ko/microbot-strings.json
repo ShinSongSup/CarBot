@@ -97,7 +97,7 @@
   "microbot.setPixelRGB|block": "Set|%lightoffset|color to %rgb",
   "microbot.setServo|block": "Set servo|index %index|angle %angle|duration %duration",
   "microbot.showLight|block": "LED 켜기 Show light",
-  "microbot|block": "microbot",
+  "microbot|block": "맥:봇",
   "{id:category}Microbot": "Microbot",
   "{id:category}RGBLight": "RGBLight"
 }
