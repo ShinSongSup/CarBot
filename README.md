@@ -1,6 +1,6 @@
-# microbot
+# 맥:봇(mak:Bot)
 
-Extension for Lewansoul Microbot
+맥:봇(mak:Bot)을 위한 확장 패키지입니다.
 
 ## License
 
