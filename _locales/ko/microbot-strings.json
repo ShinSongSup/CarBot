@@ -9,6 +9,7 @@
 	"microbot.HandleCmdType.ULTRASONIC|block":"超声波障碍物距离",
 	"microbot.HandleCmdType.BATTERY|block":"电池电量",
   
+  
 
   "RGBColors.Blue|block": "파랑",
   "RGBColors.Green|block": "녹색",
@@ -84,8 +85,5 @@
   "microbot.setPixelRGB|block": "Set|%lightoffset|color to %rgb",
   "microbot.setServo|block": "Set servo|index %index|angle %angle|duration %duration",
   "microbot.showLight|block": "LED 켜기 Show light",
-  "microbot|block": "microbot",
-  "{id:category}Microbot": "Microbot",
-  "{id:category}RGBLight": "RGBLight"
-  
+  "microbot|block": "microbot" 
 }
