@@ -84,6 +84,6 @@
 	"microbot.releaseObject|block":"机械臂放开|距离(厘米) %distance|角度 %angle|层级%layer|",
   "microbot.grapReady|block":"机械臂抓取就绪",
   "microbot|block": "microbot",
-  "{id:category}Microbot": "Microbot",
+  "{id:category}Microbot": "맥:봇",
   "{id:category}RGBLight": "RGBLight"
 }
