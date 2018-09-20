@@ -98,6 +98,6 @@
   "microbot.setServo|block": "Set servo|index %index|angle %angle|duration %duration",
   "microbot.showLight|block": "LED 켜기 Show light",
   "microbot|block": "microbot",
-  "{id:category}Microbot": "makbot",
+  "{id:category}Microbot": "microbot",
   "{id:category}RGBLight": "RGBLight"
 }
