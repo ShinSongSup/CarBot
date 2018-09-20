@@ -11,13 +11,6 @@
   "microbot.setPixelRGBArgs|block": "색깔 지정 : 색 %rgb | 오프셋 %lightoffset Set| %lightoffset |color to %rgb",
   "microbot.showLight|block": "LED 켜기",
   "microbot.clearLight|block": "LED 끄기",
-  "microbot.readLineFollowerStatus|block": "라인센서 상태 Line follower status |%status|",
-  "microbot.adjustWhite|block": "흰색 보정",
-  "microbot.adjustBlack|block": "검정색 보정",
-  "microbot.checkCurrentColor|block": "현재 색 : %color",
-  "microbot.Colors.Red|block": "빨강색",
-  "microbot.Colors.Green|block": "녹색",
-  "microbot.Colors.Blue|block": "파란색",
   "{id:category}Microbot": "맥:봇",
   "{id:category}RGBLight": "RGBLight"
 }
