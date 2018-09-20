@@ -1,5 +1,5 @@
 {
-
+  "microbot.microbotInit|block": "맥봇 초기화",
   "{id:category}Microbot": "맥:봇",
   "{id:category}RGBLight": "RGBLight"
 }
