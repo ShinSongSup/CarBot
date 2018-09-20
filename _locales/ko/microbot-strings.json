@@ -1,5 +1,16 @@
 {
   "microbot.microbotInit|block": "맥봇 초기화",
+  "microbot.setServo|block": "Set servo|index %index|angle %angle|duration %duration",
+  "microbot.setBusServo|block": "버스 서보 설정 : 순서 %index | 각도 %angle | 동작시간 %duration ",
+  "microbot.setMotorSpeed|block": "모터 속도설정 : 왼쪽 모터속도 |%speed1| 오른쪽 모터속도|speed %speed2",
+  "microbot.Ultrasonic|block": "초음파센서 거리(cm)",
+  "microbot.getSoundVolume|block": "소리 크기Sound volume",
+  "microbot.Lights.Light1|block": "왼쪽 LED",
+  "microbot.Lights.Light2|block":"오른쪽 LED",
+  "microbot.setPixelRGB|block": "Set|%lightoffset|color to %rgb",
+  "microbot.setPixelRGBArgs|block": "색깔 지정 : 색 %rgb | 오프셋 %lightoffset Set|%lightoffset|color to %rgb",
+  "microbot.showLight|block": "LED 켜기 Show light",
+  "microbot.clearLight|block": "LED 끄기",
   "{id:category}Microbot": "맥:봇",
   "{id:category}RGBLight": "RGBLight"
 }
