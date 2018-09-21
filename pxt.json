@@ -1,5 +1,5 @@
 {
-    "name": "microbot",
+    "name": "makbot",
     "version": "0.0.1",
     "description": "맥:봇(mak:Bot)을 위한 확장 패키지",
     "license": "MIT",
@@ -11,10 +11,10 @@
         "main.ts",
         "RGBLight.ts",
         "sendbuffer.asm",
-        "_locales/ko/microbot-strings.json",
-        "_locales/ko/microbot-jsdoc-strings.json",
-        "_locales/zh/microbot-strings.json",
-        "_locales/zh/microbot-jsdoc-strings.json"
+        "_locales/ko/makbot-strings.json",
+        "_locales/ko/makbot-jsdoc-strings.json",
+        "_locales/zh/makbot-strings.json",
+        "_locales/zh/makbot-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

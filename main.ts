@@ -1,8 +1,8 @@
 /*
- microbot package
+ makbot package
 */
  //% weight=10 icon="\uf013" color=#2896ff
- namespace microbot {
+ namespace makbot {
     export enum Servos {
 		S1 = 0x01,
 		S2 = 0x02,
@@ -180,10 +180,10 @@
      let readTimes = 0;
 
 	/**
-   * Microbot board initialization, please execute at boot time
+   * makbot board initialization, please execute at boot time
   */
-  //% weight=100 blockId=microbotInit block="Initialize Microbot"
-  export function microbotInit() {
+  //% weight=100 blockId=makbotInit block="Initialize makbot"
+  export function makbotInit() {
       initRGBLight();   
       initColorSensor();
       serial.redirect(
