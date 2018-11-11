@@ -20,7 +20,7 @@
   "makbot.grapReady": "Robot arm grab is ready",
   "makbot.initColorSensor": "컬러센서를 초기화합니다.",
   "makbot.littleStarMelody": "'작은별'을 연주합니다.",
-  "makbot.makbotInit": "맥:봇(mak:Bot) 초기화. 부팅할때 실행하세요",
+  "makbot.makbotInit": "카":봇(mak:Bot) 초기화. 부팅할때 실행하세요",
   "makbot.readLineFollowerStatus": "Obtain the condition of the tracking sensor",
   "makbot.releaseObject": "Robot arm release something",
   "makbot.robotArmDrawString": "Control the robot arm draw string",

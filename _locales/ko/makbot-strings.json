@@ -24,10 +24,10 @@
   "makbot.HandleCmdType.LSK|block":"소리, 광, 다이얼 수치",
   "makbot.HandleCmdType.ULTRASONIC|block":"초음파 센서거리",
   "makbot.HandleCmdType.BATTERY|block":"배터리 용량",
-  "makbot.LineFollower.S1_IN_S2_IN|block": "센서 1과 센서 2가 검정색 감지",
-  "makbot.LineFollower.S1_IN_S2_OUT|block": "센서 1은 검정색 감지, 센서 2는 검정색 감지하지 않음",
-  "makbot.LineFollower.S1_OUT_S2_IN|block": "센서 1은 검정색을 감지하지 않음, 센서 2는 검정색 감지",
-  "makbot.LineFollower.S1_OUT_S2_OUT|block": "센서 1과 센서 2는 검정색 감지하지 않음",
+  "makbot.LineFollower.S1_IN_S2_IN|block": "센서1과 센서2가 검정색 감지",
+  "makbot.LineFollower.S1_IN_S2_OUT|block": "센서1은 검정색 감지, 센서2는 검정색 감지하지 않음",
+  "makbot.LineFollower.S1_OUT_S2_IN|block": "센서1은 검정색을 감지하지 않음, 센서2는 검정색 감지",
+  "makbot.LineFollower.S1_OUT_S2_OUT|block": "센서1과 센서2는 검정색 감지하지 않음",
   "RGBColors.Red|block": "빨강색",
   "RGBColors.Orange|block": "주황색",
   "RGBColors.Yellow|block": "노랑색",
@@ -84,6 +84,6 @@
   "makbot.releaseObject|block": "로봇팔 릴리즈 : 거리(Cm) %distance , 각도 %angle, 레이어 %layer",
   "makbot.grapReady|block": "로봇팔 잡기 준비완료",
   "makbot|block": "makbot",
-  "{id:category}makbot": "카:봇",
+  "{id:category}makbot": "carBot",
   "{id:category}RGBLight": "RGBLight"
 }
