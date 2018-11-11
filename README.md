@@ -1,6 +1,6 @@
 # 맥:봇(mak:Bot)
 
-맥:봇(mak:Bot)을 위한 확장 패키지입니다.
+카:봇(car:Bot)을 위한 확장 패키지입니다.
 
 ## License
 
@@ -12,6 +12,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-makbot=github:ShinSongSup/makbotkr
+carBot=github:ShinSongSup/carBot
 ```
 
