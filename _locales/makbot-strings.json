@@ -84,6 +84,6 @@
   "makbot.releaseObject|block": "로봇팔 릴리즈 : 거리(Cm) %distance , 각도 %angle, 레이어 %layer",
   "makbot.grapReady|block": "로봇팔 잡기 준비완료",
   "makbot|block": "makbot",
-  "{id:category}Makbot": "carBot",
+  "{id:category}Makbot": "Makbot",
   "{id:category}RGBLight": "RGBLight"
 }
