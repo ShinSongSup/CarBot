@@ -412,12 +412,15 @@
             return false;
         }     
      }
+
+     /**
     
        /**
      * Robot arm grab is ready
      */
     //% weight=90 blockId=grapReady block="Robot arm grab is ready"
-    export function grapReady() {
+    /**
+     export function grapReady() {
        let buf = pins.createBuffer(5);
        buf[0] = 0x55;
        buf[1] = 0x55;
@@ -426,6 +429,7 @@
        buf[4] = 0x02;
        serial.writeBuffer(buf);
     }
+    */
     
      
       /**
