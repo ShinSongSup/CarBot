@@ -417,8 +417,7 @@
      * Robot arm grab is ready
      */
     //% weight=90 blockId=grapReady block="Robot arm grab is ready"
-    function grapReady() { 
-    //export function grapReady() {
+    export function grapReady() {
        let buf = pins.createBuffer(5);
        buf[0] = 0x55;
        buf[1] = 0x55;
@@ -435,8 +434,7 @@
     //% weight=89 blockId=grapObject block="Robot arm grab|angle %angle| at |layer %layer|"
     //% angle.min=0 angle.max=240
     //% layer.min=0 layer.max=3 
-    function grapObject(angle: number, layer: number) {
-    //export function grapObject(angle: number, layer: number) {
+    export function grapObject(angle: number, layer: number) {
         let distance = UltrasonicMs();
         if (angle > 240 || angle < 0)
         {
@@ -468,8 +466,7 @@
    //% weight=88  blockId=releaseObject block="Robot arm release|distance(Cm) %distance|angle %angle|at|layer %layer|"
    //% angle.min=0 angle.max=240
    //% layer.min=0 layer.max=3  
-   function releaseObject(distance: number,angle: number, layer: number) {
-   //export function releaseObject(distance: number,angle: number, layer: number) {
+   export function releaseObject(distance: number,angle: number, layer: number) {
        if (angle > 240 || angle < 0)
        {
            return; 
@@ -498,8 +495,7 @@
       * Control the robot arm draw string
       */
      //% weight=87 blockGap=50 blockId=robotArmDrawString block="Robot arm draw %str"
-     function robotArmDrawString(str: string)
-     //export function robotArmDrawString(str: string)
+     export function robotArmDrawString(str: string)
      { 
          let buf = pins.createBuffer(str.length + 5);
          buf[0] = 0x55;
